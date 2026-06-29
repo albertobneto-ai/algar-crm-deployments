@@ -1,1 +1,13 @@
-test
+CRMB2B-MAPS-001 Deploy Log
+==========================
+Org: arqevery (org_id=36)
+Data: 2026-06-28
+
+Step 1: CTO__c (CustomObject + 6 campos) -> OK
+Step 2: Metro_Station__c (CustomObject + 4 campos) -> OK
+Step 3: PS_Maps_GPON_CRUD (PermissionSet CRUD) -> OK
+Step 4: PS_Maps_Metro_CRUD (PermissionSet CRUD) -> OK
+Step 5: Admin Profile CRUD -> OK
+
+Nota: FLS nao necessario — todos os campos sao required.
+Todos os 5 steps concluidos com sucesso.
