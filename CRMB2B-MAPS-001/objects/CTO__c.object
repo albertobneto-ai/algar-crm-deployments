@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+  <label>GPON</label>
+  <pluralLabel>GPONs</pluralLabel>
+  <nameField><label>Nome CTO</label><type>Text</type></nameField>
+  <sharingModel>ReadWrite</sharingModel>
+  <deploymentStatus>Deployed</deploymentStatus>
+  <fields><fullName>Latitude__c</fullName><label>Latitude</label><type>Number</type><precision>10</precision><scale>7</scale><required>true</required></fields>
+  <fields><fullName>Longitude__c</fullName><label>Longitude</label><type>Number</type><precision>10</precision><scale>7</scale><required>true</required></fields>
+  <fields><fullName>Total_Ports__c</fullName><label>Total de Portas</label><type>Number</type><precision>5</precision><scale>0</scale><required>true</required></fields>
+  <fields><fullName>Available_Ports__c</fullName><label>Portas Disponíveis</label><type>Number</type><precision>5</precision><scale>0</scale><required>true</required></fields>
+  <fields><fullName>Asset_Type__c</fullName><label>Tipo CTO</label><type>Text</type><length>100</length><required>true</required></fields>
+  <fields><fullName>Neighborhood__c</fullName><label>Localidade</label><type>Text</type><length>255</length><required>true</required></fields>
+</CustomObject>
