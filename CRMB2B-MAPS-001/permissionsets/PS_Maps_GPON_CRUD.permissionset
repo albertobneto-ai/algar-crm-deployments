@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+  <label>PS Maps GPON CRUD</label>
+  <objectPermissions><object>CTO__c</object><allowCreate>true</allowCreate><allowRead>true</allowRead><allowEdit>true</allowEdit><allowDelete>true</allowDelete><viewAllRecords>true</viewAllRecords><modifyAllRecords>true</modifyAllRecords></objectPermissions>
+</PermissionSet>
