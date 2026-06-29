@@ -1,0 +1,1 @@
+{"us":"CRMB2B-MAPS-001","title":"SF Maps - CTO e Metro Station","org":"arqevery","date":"2026-06-28","components":[{"type":"CustomObject","name":"CTO__c"},{"type":"CustomObject","name":"Metro_Station__c"},{"type":"PermissionSet","name":"PS_Maps_GPON_CRUD"},{"type":"PermissionSet","name":"PS_Maps_Metro_CRUD"}]}
